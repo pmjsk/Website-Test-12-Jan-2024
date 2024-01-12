@@ -3,28 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paul Kennedy</title>
-    <style>
-        body {
-            background-color: white;
-            color: black;
-            font-family: 'Brown', sans-serif;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center;
-        }
-    </style>
+    <title>Your Website Title</title>
 </head>
 <body>
-    <div class="container">
-        <h1>Hello, I'm Paul Kennedy</h1>
-        <p>Email: <a href="mailto:paul_kennedy@live.ie">paul_kennedy@live.ie</a></p>
-        <p>Phone: <a href="tel:+353876778472">+353 87 677 8472</a></p>
-        <p>Welcome to my personal webpage. I'll be sharing my thoughts, experiences, and more here.</p>
-        <!-- You can add more content as needed -->
-    </div>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    <nav>
+        <!-- Navigation menu goes here -->
+    </nav>
+    <main>
+        <!-- Your content sections go here -->
+    </main>
+    <footer>
+        <!-- Footer content goes here -->
+    </footer>
+</body>
+</html>
 </body>
 </html>
