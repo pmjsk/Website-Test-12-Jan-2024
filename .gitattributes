@@ -1,2 +1,30 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paul Kennedy</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: 'Brown', sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello, I'm Paul Kennedy</h1>
+        <p>Email: <a href="mailto:paul_kennedy@live.ie">paul_kennedy@live.ie</a></p>
+        <p>Phone: <a href="tel:+353876778472">+353 87 677 8472</a></p>
+        <p>Welcome to my personal webpage. I'll be sharing my thoughts, experiences, and more here.</p>
+        <!-- You can add more content as needed -->
+    </div>
+</body>
+</html>
